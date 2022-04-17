@@ -4,7 +4,7 @@ export default function Test() {
     const element = (
         <div>
             <p>
-                Hello, World!
+                Welcome to my website!
             </p>
         </div>
     );
