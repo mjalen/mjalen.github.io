@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['measure_0',['measure',['../namespacemeasure.html',1,'measure'],['../namespacemeasure.html#a16cb8c8681461c0d1d1ce17a46399b59',1,'measure.measure']]],
-  ['measure_2epy_1',['measure.py',['../measure_8py.html',1,'']]],
-  ['measurement_2',['Measurement',['../classmeasure_1_1_measurement.html',1,'measure']]],
-  ['modules_3',['Libraries/Modules',['../measure_8py.html#libraries_main',1,'']]]
+  ['libraries_20modules_0',['Libraries/Modules',['../measure_8py.html#libraries_main',1,'']]],
+  ['load_5fimage_5ffrom_5ffile_1',['load_image_from_file',['../classperspective_1_1_image.html#ad150f7e8d3fae3960c8724b0081ec16e',1,'perspective.Image.load_image_from_file()'],['../classcorner__measure_1_1_image_interface.html#ac4b4534cf45b69a064912a2c96c6c582',1,'corner_measure.ImageInterface.load_image_from_file()']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['perspective_0',['perspective',['../namespaceperspective.html',1,'']]]
+  ['measure_0',['measure',['../namespacemeasure.html',1,'']]]
 ];

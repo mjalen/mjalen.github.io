@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['ids_0',['ids',['../classperspective_1_1_target_image.html#a0a9b879f29cc1e1e03ffc7851f7c19b9',1,'perspective::TargetImage']]],
-  ['image_1',['image',['../classperspective_1_1_target_image.html#a42cb5f5737262947250c709931232c69',1,'perspective::TargetImage']]],
-  ['img_5fpoints_2',['img_points',['../classperspective_1_1_target_image.html#a8ee2b75aef8755c38356dbe8f2f349a7',1,'perspective::TargetImage']]],
-  ['interface_3',['interface',['../namespaceperspective.html#ae6deea6e7d03b5d4db98ea209159e57f',1,'perspective']]]
+  ['file_5fflag_5findex_0',['file_flag_index',['../namespacecorner__measure.html#a76bdcbb0990a7fb3cca477edead4ea5e',1,'corner_measure']]],
+  ['file_5fpath_1',['file_path',['../classcorner__measure_1_1_window_image.html#a7d5036c11dffdeaab5bc82fd6e46ca01',1,'corner_measure.WindowImage.file_path'],['../classcorner__measure_1_1_window_image.html#a8aa55c8aa2346c2358ce68869a197088',1,'corner_measure.WindowImage.file_path']]],
+  ['filename_2',['filename',['../classperspective_1_1_image.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.Image.filename'],['../classperspective_1_1_perspective.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.Perspective.filename'],['../classperspective_1_1_credit_card_image.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.CreditCardImage.filename'],['../namespaceperspective.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.filename'],['../namespacemeasure.html#a2ff994e16bf9521154de4cf659a3b689',1,'measure.filename']]],
+  ['files_3',['files',['../namespaceperspective.html#afafecb95aca5e0525fd6959a5602fb89',1,'perspective.files'],['../namespacecorner__measure.html#afafecb95aca5e0525fd6959a5602fb89',1,'corner_measure.files']]]
 ];
