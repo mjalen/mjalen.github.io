@@ -1,8 +1,10 @@
 var searchData=
 [
-  ['file_5fflag_5findex_0',['file_flag_index',['../namespacecorner__measure.html#a76bdcbb0990a7fb3cca477edead4ea5e',1,'corner_measure']]],
-  ['file_5fpath_1',['file_path',['../classcorner__measure_1_1_window_image.html#a7d5036c11dffdeaab5bc82fd6e46ca01',1,'corner_measure.WindowImage.file_path'],['../classcorner__measure_1_1_window_image.html#a8aa55c8aa2346c2358ce68869a197088',1,'corner_measure.WindowImage.file_path']]],
-  ['filename_2',['filename',['../classperspective_1_1_image.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.Image.filename'],['../classperspective_1_1_perspective.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.Perspective.filename'],['../classperspective_1_1_credit_card_image.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.CreditCardImage.filename'],['../namespaceperspective.html#a2ff994e16bf9521154de4cf659a3b689',1,'perspective.filename'],['../namespacemeasure.html#a2ff994e16bf9521154de4cf659a3b689',1,'measure.filename']]],
-  ['files_3',['files',['../namespaceperspective.html#afafecb95aca5e0525fd6959a5602fb89',1,'perspective.files'],['../namespacecorner__measure.html#afafecb95aca5e0525fd6959a5602fb89',1,'corner_measure.files']]],
-  ['filter_5fcanny_4',['filter_canny',['../classperspective_1_1_credit_card_image.html#a73e6d912cbe7a622322661b3ecb11337',1,'perspective::CreditCardImage']]]
+  ['data_0',['data',['../namespacecorner__measure.html#a511ae0b1c13f95e5f08f1a0dd3da3d93',1,'corner_measure']]],
+  ['detect_5faruco_5fobjects_1',['detect_aruco_objects',['../classimage_1_1_i_image.html#a566ab1afe0bce7fe22943e91d30e034c',1,'image::IImage']]],
+  ['dim_2',['dim',['../namespacecorner__measure.html#ae6fa959b9e8f9c638e0d82bf2c7dc5e7',1,'corner_measure']]],
+  ['dir_3',['dir',['../namespacecorner__measure.html#a4ca269cf93df1b512b52174c1a256fe5',1,'corner_measure']]],
+  ['dir_5fflag_5findex_4',['dir_flag_index',['../namespacecorner__measure.html#a4f9f3dfc3457f957820b8e3944faef13',1,'corner_measure']]],
+  ['directory_5',['directory',['../namespacecorner__measure.html#aedf03b9517092eee7dae1588bbc00e19',1,'corner_measure']]],
+  ['dst_6',['dst',['../namespacecorner__measure.html#aad87a17f7ac7f1b1bc5c305e99d970d3',1,'corner_measure']]]
 ];

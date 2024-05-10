@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['path_0',['path',['../namespaceperspective.html#aa28dc103258589d9cb421197fe2de90b',1,'perspective.path'],['../namespacecorner__measure.html#aa28dc103258589d9cb421197fe2de90b',1,'corner_measure.path']]],
-  ['pixel_5fdimensions_1',['pixel_dimensions',['../classmeasure_1_1_measurement.html#a631f8f6d57966907b9cd369b06163c5e',1,'measure::Measurement']]]
+  ['mask_0',['mask',['../namespacecorner__measure.html#a0a8b6c3c665ace305566070099141b39',1,'corner_measure']]],
+  ['max_5ferr_1',['MAX_ERR',['../namespacecorner__measure.html#aade7701e9dffc2eee9dd76cc24cc48dd',1,'corner_measure']]]
 ];

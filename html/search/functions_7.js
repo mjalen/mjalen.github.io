@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['process_5fimage_0',['process_image',['../classcorner__measure_1_1_window_image.html#aacb460b1e1eef053761b854da7343f04',1,'corner_measure::WindowImage']]]
+  ['normalize_5fcorners_0',['normalize_corners',['../classsort_1_1_i_sort.html#ab1a9d812f77155e4048c77740cb1ed1a',1,'sort::ISort']]]
 ];

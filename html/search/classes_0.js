@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['creditcardimage_0',['CreditCardImage',['../classperspective_1_1_credit_card_image.html',1,'perspective']]]
+  ['birefimage_0',['BiRefImage',['../classwindow__image_1_1_bi_ref_image.html',1,'window_image']]]
 ];

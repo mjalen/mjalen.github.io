@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['result_0',['result',['../namespacecorner__measure.html#a937d4dd628a8858b443a399410d2600b',1,'corner_measure']]],
-  ['results_1',['results',['../namespacecorner__measure.html#a230e4624bbd228799deb958efb829e10',1,'corner_measure']]]
+  ['n_5frefs_0',['n_refs',['../namespacecorner__measure.html#a1c7da8a9747b7466e2e148158e029f48',1,'corner_measure']]]
 ];

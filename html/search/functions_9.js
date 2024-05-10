@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['secant_5fmethod_0',['secant_method',['../classcorner__measure_1_1_image_interface.html#a5560b0e4db7473d4723e54145fc775bc',1,'corner_measure::ImageInterface']]]
+  ['reference_5fsort_0',['reference_sort',['../classsort_1_1_i_sort.html#a2387c69604100e2c05b2502f3a9168da',1,'sort::ISort']]]
 ];

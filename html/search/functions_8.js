@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['reference_5fsort_0',['reference_sort',['../classcorner__measure_1_1_image_interface.html#a2387c69604100e2c05b2502f3a9168da',1,'corner_measure::ImageInterface']]]
+  ['process_5fimage_0',['process_image',['../classwindow__image_1_1_window_image.html#a29128c3acf33fe54a0ab7aa290e9d591',1,'window_image.WindowImage.process_image()'],['../classwindow__image_1_1_tri_ref_image.html#a29128c3acf33fe54a0ab7aa290e9d591',1,'window_image.TriRefImage.process_image()']]]
 ];
